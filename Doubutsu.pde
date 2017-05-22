@@ -1,4 +1,3 @@
-
 final int SQUARESIZE = 100;
 Board board;
 KomaList komaList;
